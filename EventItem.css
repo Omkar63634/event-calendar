@@ -1,0 +1,30 @@
+.event-item {
+  background: #e0f7fa;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 5px;
+  text-align: left;
+  position: relative;
+}
+
+.event-item strong {
+  display: block;
+  color: #00796b;
+}
+
+.event-item p {
+  margin: 0;
+  font-size: 11px;
+  color: #555;
+}
+
+.event-item button {
+  margin-top: 5px;
+  background: #e53935;
+  color: white;
+  border: none;
+  padding: 2px 6px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 11px;
+}
